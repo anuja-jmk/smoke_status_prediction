@@ -1,5 +1,5 @@
 # Data
-/data/
+# /data/
 
 # Mac OS-specific storage files
 .DS_Store
@@ -152,7 +152,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+smoker_venv
 # Spyder project settings
 .spyderproject
 .spyproject
