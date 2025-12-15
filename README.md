@@ -1,10 +1,10 @@
-# project_name
+# Smoker Status Prediction Using Bio-signals
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-A short description of the project.
+Using features like age, height, weight, waist, hearing, eyesight, cholesterol levels, blood pressure, AST, ALT, Gtp, dental caries etc, to predict if a person is a smoker or not. Modelled as a binary classification problem, solved using 3 classifiers - logistic regression, support vector machine and artificial neural networks.
 
 ## Project Organization
 
